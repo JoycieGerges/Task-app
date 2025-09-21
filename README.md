@@ -46,5 +46,12 @@ The website showcases the app’s features, user reviews, pricing plans, and inc
 
 ---
 
-## 📧 Contact
-Created by **Joycie Gerges Wanes** – feel free to reach out!  
+## 🧠 Author
+
+Developed by Joycie Gerges
+
+📧 Email: joyciegerges@gmail.com
+
+🌐 Portfolio: https://joycieportfolio.netlify.app/
+
+🔗 LinkedIn: www.linkedin.com/in/joycie-gerges-b45514248
